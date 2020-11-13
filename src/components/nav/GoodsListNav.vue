@@ -5,14 +5,14 @@
         <ul>
           <li>全部商品分类</li>
           <li><router-link to="/">首页</router-link></li>
-          <li><router-link to="/">服装城</router-link></li>
-          <li><router-link to="/">美妆馆</router-link></li>
-          <li><router-link to="/">BIT超市</router-link></li>
-          <li><router-link to="/">生鲜</router-link></li>
-          <li><router-link to="/">全球购</router-link></li>
-          <li><router-link to="/">闪购</router-link></li>
-          <li><router-link to="/">拍卖</router-link></li>
-          <li><router-link to="/">金融</router-link></li>
+          <li><router-link to="/">品牌</router-link></li>
+          <li><router-link to="/">打折</router-link></li>
+          <li><router-link to="/">和记张生</router-link></li>
+          <li><router-link to="/">好壶热卖</router-link></li>
+          <li><router-link to="/">纯手工</router-link></li>
+          <li><router-link to="/">定制</router-link></li>
+          <li><router-link to="/">明星同款</router-link></li>
+          <li><router-link to="/">低价</router-link></li>
         </ul>
       </div>
     </div>

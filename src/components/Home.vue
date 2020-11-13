@@ -5,9 +5,9 @@
         <Menu active-name="1-2" theme="light" width="auto" @on-select="onSelect">
           <div class="user-icon">
             <div class="user-img">
-              <img src="static/img/head.png">
+              <img src="static/img/head1.jpg">
             </div>
-            <p>Gavin</p>
+            <p>程正荣</p>
           </div>
           <Submenu name="1">
             <template slot="title">

@@ -16,10 +16,10 @@ export default {
         order_id: 1529931938150,
         goods_id: 1529931938150,
         count: 1,
-        img: 'static/img/goodsDetail/pack/1.jpg',
-        package: '4.7英寸-深邃蓝',
+        img: 'static/img/goodsDetail/pack/33.jpg',
+        package: '250ml原厂红泥',
         price: 28,
-        title: '苹果8/7手机壳iPhone7 Plus保护壳全包防摔磨砂硬外壳',
+        title: '紫砂壶倒把西施潮州手拉壶手把全手工紫砂壶特价仿古朱泥小紫砂壶',
         createAt: '2018-06-06 20:06:08'
       }],
       columns: [

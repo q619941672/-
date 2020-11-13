@@ -32,20 +32,20 @@ export default {
   data () {
     return {
       shopIntro: {
-        shopName: 'Gavin Shop',
-        slogen: 'The Best Thing For You',
+        shopName: '壶壶 shop',
+        slogen: '一个专为顾客服务的网站',
         showGoods: [
           {
-            img: 'static/img/goodsList/item-show-1.jpg',
-            intro: [ '全身磨砂', '防指纹' ]
+            img: 'static/img/goodsList/item-show-11.jpg',
+            intro: [ '纯手工', '百年利永大红袍西施' ]
           },
           {
-            img: 'static/img/goodsList/item-show-2.jpg',
-            intro: [ '环保PP材质', '不发黄' ]
+            img: 'static/img/goodsList/item-show-22.jpg',
+            intro: [ '30年', '炼泥经验' ]
           },
           {
-            img: 'static/img/goodsList/item-show-3.jpg',
-            intro: [ '0.4mm纤细', '纤薄手感' ]
+            img: 'static/img/goodsList/item-show-33.jpg',
+            intro: [ '36道', '制作工序' ]
           }
         ]
       }

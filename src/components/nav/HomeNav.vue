@@ -12,70 +12,70 @@
       <div class="nav-side" ref="navSide">
         <ul>
           <li @mouseenter="showDetail(1)" @mouseleave="hideDetail(1)">
-            <span class="nav-side-item">家用电器</span>
+            <span class="nav-side-item">新品推荐</span>
           </li>
           <li @mouseenter="showDetail(2)" @mouseleave="hideDetail(2)">
-            <span class="nav-side-item">手机</span> /
-            <span class="nav-side-item">运营商</span> /
-            <span class="nav-side-item">数码</span>
+            <span class="nav-side-item">西施</span> /
+            <span class="nav-side-item">石瓢</span> /
+            <span class="nav-side-item">圆器</span>
           </li>
           <li @mouseenter="showDetail(1)" @mouseleave="hideDetail(1)">
-            <span class="nav-side-item">电脑</span> /
-            <span class="nav-side-item">办公</span>
+            <span class="nav-side-item">花器</span> /
+            <span class="nav-side-item">方器</span>
           </li>
           <li @mouseenter="showDetail(2)" @mouseleave="hideDetail(2)">
-            <span class="nav-side-item">家居</span> /
-            <span class="nav-side-item">家具</span> /
-            <span class="nav-side-item">家装</span> /
-            <span class="nav-side-item">厨具</span>
+            <span class="nav-side-item">刻绘</span> /
+            <span class="nav-side-item">泥绘</span> /
+            <span class="nav-side-item">紫泥</span> /
+            <span class="nav-side-item">清水泥</span>
           </li>
           <li @mouseenter="showDetail(1)" @mouseleave="hideDetail(1)">
-            <span class="nav-side-item">男装</span> /
-            <span class="nav-side-item">女装</span> /
-            <span class="nav-side-item">童装</span> /
-            <span class="nav-side-item">内衣</span>
+            <span class="nav-side-item">青瓷</span> /
+            <span class="nav-side-item">陶瓷</span> /
+            <span class="nav-side-item">朱泥</span> /
+            <span class="nav-side-item">段泥</span>
           </li>
           <li @mouseenter="showDetail(2)" @mouseleave="hideDetail(2)">
-            <span class="nav-side-item">美妆个护</span> /
-            <span class="nav-side-item">宠物</span>
+            <span class="nav-side-item">雅玩初体验</span> /
+            <span class="nav-side-item">精品</span>
           </li>
           <li @mouseenter="showDetail(1)" @mouseleave="hideDetail(1)">
-            <span class="nav-side-item">女鞋</span> /
-            <span class="nav-side-item">箱包</span> /
-            <span class="nav-side-item">钟表</span> /
-            <span class="nav-side-item">珠宝</span>
+            <span class="nav-side-item">预售</span> /
+            <span class="nav-side-item">5折</span> /
+            <span class="nav-side-item">高工</span> /
+            <span class="nav-side-item">热卖</span>
           </li>
           <li @mouseenter="showDetail(2)" @mouseleave="hideDetail(2)">
-            <span class="nav-side-item">男鞋</span> /
-            <span class="nav-side-item">运动</span> /
-            <span class="nav-side-item">户外</span>
+            <span class="nav-side-item">青瓷</span> /
+            <span class="nav-side-item">紫泥</span> /
+            <span class="nav-side-item">刻绘</span>
           </li>
           <li @mouseenter="showDetail(1)" @mouseleave="hideDetail(1)">
-            <span class="nav-side-item">汽车</span> /
-            <span class="nav-side-item">汽车用品</span>
+            <span class="nav-side-item">段泥</span> /
+            <span class="nav-side-item">雅玩初体验</span>
           </li>
           <li @mouseenter="showDetail(2)" @mouseleave="hideDetail(2)">
-            <span class="nav-side-item">母婴</span> /
-            <span class="nav-side-item">玩具乐器</span>
+            <span class="nav-side-item">预售</span> /
+            <span class="nav-side-item">清水泥</span>
           </li>
           <li @mouseenter="showDetail(1)" @mouseleave="hideDetail(1)">
-            <span class="nav-side-item">食品</span> /
-            <span class="nav-side-item">酒类</span> /
-            <span class="nav-side-item">生鲜</span> /
-            <span class="nav-side-item">特产</span>
+            <span class="nav-side-item">高工</span> /
+            <span class="nav-side-item">刻绘</span> /
+            <span class="nav-side-item">紫泥</span> /
+            <span class="nav-side-item">热卖</span>
           </li>
           <li @mouseenter="showDetail(2)" @mouseleave="hideDetail(2)">
-            <span class="nav-side-item">礼品鲜花</span> /
-            <span class="nav-side-item">农资绿植</span>
+            <span class="nav-side-item">精品推荐</span> /
+            <span class="nav-side-item">热卖推荐</span>
           </li>
           <li @mouseenter="showDetail(1)" @mouseleave="hideDetail(1)">
-            <span class="nav-side-item">医药保健</span> /
-            <span class="nav-side-item">计生情趣</span>
+            <span class="nav-side-item">好货专区</span> /
+            <span class="nav-side-item">热卖专区</span>
           </li>
           <li @mouseenter="showDetail(2)" @mouseleave="hideDetail(2)">
-            <span class="nav-side-item">图书</span> /
-            <span class="nav-side-item">音像</span> /
-            <span class="nav-side-item">电子书</span>
+            <span class="nav-side-item">预售</span> /
+            <span class="nav-side-item">刻绘</span> /
+            <span class="nav-side-item">青瓷</span>
           </li>
         </ul>
       </div>
@@ -148,109 +148,109 @@ export default {
       nav: [
         '秒杀',
         '优惠券',
-        '闪购',
-        '拍卖',
-        '服装城',
-        '超市',
-        '生鲜',
-        '全球购',
-        '金融'
+        '团购',
+        '品牌',
+        '打折',
+        '好壶',
+        '和记张生',
+        '纯手工',
+        '定制'
       ],
       panelData1: {
-        navTags: [ '清洁用品', '美妆商城', '美妆馆', '妆比社', '全球购美妆', '宠物馆' ],
+        navTags: [ '紫砂壶', '紫砂杯', '红泥', '明星同款', '紫泥', '段泥' ],
         classNav: [
           {
-            title: '面部护肤',
-            tags: [ '补水保湿', '卸妆', '洁面', '爽肤水', '乳液面霜', '精华', '眼霜', '防晒', '面膜', '剃须', '套装' ]
+            title: '泥料分类',
+            tags: [ '红泥', '紫泥', '段泥', '底槽清', '绿泥', '黑金沙', '大红袍', '青灰泥', '朱泥', '胶泥' ]
           },
           {
-            title: '洗发护发',
-            tags: [ '洗发', '护发', '染发', '造型', '假发', '美发工具', '套装' ]
+            title: '容量分类',
+            tags: [ '红泥', '紫泥', '段泥', '底槽清' ]
           },
           {
-            title: '身体护理',
-            tags: [ '补水保湿', '沐浴', '润肤', '精油', '颈部', '手足', '纤体塑形', '美胸', '套装' ]
+            title: '器形分类',
+            tags: [ '底槽清', '绿泥', '黑金沙' ]
           },
           {
-            title: '口腔护理',
-            tags: [ '牙膏/牙粉', '牙刷/牙线', '漱口水', '套装' ]
+            title: '作者分类',
+            tags: [ '底槽清', '绿泥', '黑金沙', '大红袍', '青灰泥', '朱泥', '胶泥' ]
           },
           {
-            title: '女性护理',
-            tags: [ '卫生巾', '卫生护垫', '私密护理', '脱毛膏' ]
+            title: '工艺分类',
+            tags: [ '底槽清', '绿泥', '黑金沙' ]
           },
           {
-            title: '香水彩妆',
-            tags: [ 'BB霜', '化妆棉', '女士香水', '男士香水', '底妆', '眉笔', '睫毛膏', '眼线', '眼影', '唇膏/彩' ]
+            title: '紫砂壶',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '清洁用品',
-            tags: [ '纸品湿巾', '衣物清洁', '清洁工具', '家庭清洁', '一次性用品', '驱虫用品', '皮具护理' ]
+            title: '紫砂杯',
+            tags: [ '底槽清', '绿泥', '黑金沙', '大红袍', '青灰泥', '朱泥', '胶泥' ]
           },
           {
-            title: '宠物生活',
-            tags: [ '水族世界', '狗粮', '猫粮', '猫狗罐头', '狗零食', '猫零食', '医疗保健', '宠物玩具', '宠物服饰' ]
+            title: '紫砂茶宠',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '香水彩妆',
-            tags: [ 'BB霜', '化妆棉', '女士香水', '男士香水', '底妆', '眉笔', '睫毛膏', '眼线', '眼影', '唇膏/彩' ]
+            title: '茶道配件',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '清洁用品',
-            tags: [ '纸品湿巾', '衣物清洁', '清洁工具', '家庭清洁', '一次性用品', '驱虫用品', '皮具护理' ]
+            title: '价格分类',
+            tags: [ '底槽清', '绿泥', '黑金沙', '大红袍', '青灰泥', '朱泥', '胶泥' ]
           },
           {
-            title: '宠物生活',
-            tags: [ '水族世界', '狗粮', '猫粮', '猫狗罐头', '狗零食', '猫零食', '医疗保健', '宠物玩具', '宠物服饰' ]
+            title: '紫砂杯',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           }
         ]
       },
       panelData2: {
-        navTags: [ '赛事', '运动城', '户外馆', '健身房', '骑行馆', '钟表城' ],
+        navTags: [ '紫砂壶', '紫砂杯', '红泥', '明星同款', '紫泥', '段泥' ],
         classNav: [
           {
-            title: '2017新品',
-            tags: [ '休闲鞋', '商务休闲鞋', '正装鞋', '帆布鞋', '凉鞋', '拖鞋', '功能鞋', '增高鞋', '工装鞋', '雨鞋' ]
+            title: '紫砂杯',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '运动鞋包',
-            tags: [ '跑步鞋', '休闲鞋', '篮球鞋', '帆布鞋', '板鞋', '拖鞋', '运动包' ]
+            title: '价格分类',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '健身训练',
-            tags: [ '跑步机', '健身车/动感单车', '椭圆机', '综合训练器', '划船机', '甩脂机', '倒立机', '武术搏击' ]
+            title: '茶道配件',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '骑行运动',
-            tags: [ '山地车', '公路车', '折叠车', '骑行服', '电动车', '电动滑板车', '城市自行车', '平衡车' ]
+            title: '紫砂茶宠',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '体育用品',
-            tags: [ '乒乓球', '羽毛球', '篮球', '足球', '轮滑滑板', '网球', '高尔夫', '台球', '排球' ]
+            title: '工艺分类',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '户外鞋服',
-            tags: [ '户外风衣', '徒步鞋', 'T恤', '冲锋衣裤', '速干衣裤', '越野跑鞋', '滑雪服', '羽绒服/棉服', '休闲衣裤' ]
+            title: '价格分类',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '户外装备',
-            tags: [ '背包', '帐篷/垫子', '望远镜', '烧烤用具', '便携桌椅床', '户外配饰', '军迷用品', '野餐用品' ]
+            title: '作者分类',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '垂钓用品',
-            tags: [ '钓竿', '鱼线', '浮漂', '鱼饵', '钓鱼配件', '渔具包', '钓箱钓椅', '鱼线轮', '钓鱼灯' ]
+            title: '器形分类',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '游泳用品',
-            tags: [ '女士泳衣', '比基尼', '男士泳衣', '泳镜', '游泳圈', '游泳包防水包', '泳帽', '游泳配件' ]
+            title: '茶道配件',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '垂钓用品',
-            tags: [ '钓竿', '鱼线', '浮漂', '鱼饵', '钓鱼配件', '渔具包', '钓箱钓椅', '鱼线轮', '钓鱼灯' ]
+            title: '容量分类',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           },
           {
-            title: '游泳用品',
-            tags: [ '女士泳衣', '比基尼', '男士泳衣', '泳镜', '游泳圈', '游泳包防水包', '泳帽', '游泳配件' ]
+            title: '紫砂茶宠',
+            tags: [ '绿泥', '黑金沙', '大红袍', '青灰泥' ]
           }
         ]
       }

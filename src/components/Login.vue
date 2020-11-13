@@ -3,7 +3,7 @@
   <div>
     <Row class="container">
       <i-col span="13" offset="2" class="login-img-box">
-        <img src="static/img/sale.jpg" alt="">
+        <img src="static/img/sale1.jpg" alt="">
       </i-col>
       <i-col span="7" class="login-box">
         <div class="login-container">

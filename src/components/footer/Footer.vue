@@ -40,7 +40,7 @@
         </div>
         <div class="clearfix"></div>
         <div class="copyright">
-          <p>Copyright © 2018 by Gavin <a href="https://github.com/PowerDos"><Icon type="social-github"></Icon></a> <span>本项目仅供学习参考</span></p>
+          <p>Copyright © 2018 by xxx <a href="https://github.com/PowerDos"><Icon type="social-github"></Icon></a> <span>又是快乐的一天</span></p>
         </div>
       </div>
     </footer>
@@ -60,7 +60,7 @@ export default {
         [ '售后服务', '售后政策', '价格保护', '退款说明', '返修/退换货', '取消订单' ]
       ],
       moreLink: [
-        '关于我们', '联系我们', '联系客服', '合作招商', '商家帮助', '营销中心', '销售联盟', '校园社区', '风险监测', '隐私政策'
+        '关于我们', '联系我们', '钉钉', '支付宝', '淘宝', '京东', '阿里巴巴', '联系客服', '全球速通', '法律声明'
       ]
     };
   }
@@ -92,7 +92,7 @@ export default {
   position: absolute;
   width: 36px;
   height: 42px;
-  background-image: url("../../../static/img/footer/ico_service.png");
+  background-image: url("../../../static/img/footer/ico_service1.png");
   text-indent: -999px;
 }
 .footer-icon-child-2 {

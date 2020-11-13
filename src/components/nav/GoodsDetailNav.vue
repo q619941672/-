@@ -15,7 +15,7 @@ export default {
   name: 'GoodsDetailNav',
   data () {
     return {
-      shopNav: [ '首页', 'iPhoneX', 'iPhone8', 'OnePlus', '坚果Pro', 'Note8' ]
+      shopNav: [ '首页', '全部分类', '所有产品', '热卖热销', '折扣专区', '国宝复刻' ]
     };
   }
 };
